@@ -1,0 +1,5 @@
+Alabama	Montgomery	32.361538	-86.279118
+Alaska	Juneau	58.301935	-134.41974
+Arizona	Phoenix	33.448457	-112.073844
+Arkansas	Little Rock	34.736009	-92.331122
+California	Sacramento	38.555605	-121.468926
